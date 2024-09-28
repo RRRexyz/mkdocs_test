@@ -1,0 +1,4 @@
+site_name: Backend Train
+theme: minty
+nav:
+  - Home: index.md
